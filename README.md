@@ -5,7 +5,7 @@
 
 Problem Statement: 
 
-I created some insights for the given requirements, so that vrinda store can understand their customer requirement and grow more sales in the following year.
+I created some insights for the given requirements, so that vrinda store can understand their customer requirements and grow more sales in the following year.
 
 Visualization Tool: Microsoft Excel
 
