@@ -9,13 +9,7 @@ I created some insights for the given requirements, so that vrinda store can und
 
 Visualization Tool: Microsoft Excel
 
-IMPORTANT STEPS:
-
-Data cleaning
-Data pre processing
-Data analysis
-Dashboarding
-Insight
+IMPORTANT STEPS: Data cleaning, Data pre processing, Data analysis, Dashboarding, Insight
 
 Sample Questions:
 
@@ -23,7 +17,7 @@ Sample Questions:
 * Who purchased more - men or women in 2022?
 * Relation between age and gender based on number of sales
 * Top States contributing to the sales?
-* etc
+* etc.
   
 Key insights:
 
@@ -31,7 +25,7 @@ Key insights:
 • Women are more likely to buy compared to man (~65%)
 • Adult age group (30-40yrs) is max contributeing (~50%)
 • Target Women cusotmers of Age Group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons avilable on Amazon, Flipkart, Myntra
-• etc
+• etc.
 
 TAKE AWAYS:
 
